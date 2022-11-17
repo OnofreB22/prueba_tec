@@ -4,7 +4,7 @@ Solucion prueba tecnica de SETI.
 
 ## Instrucciones
 
-* docker
+* Docker
   ```sh
   docker build .
   ```
